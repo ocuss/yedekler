@@ -1,0 +1,4 @@
+degisken1 = "ozge_nur"
+degisken2 = "huner"
+ifade1 = "{1} {0}".format(degisken2,degisken1)
+print(ifade1)
